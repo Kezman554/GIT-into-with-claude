@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}! Welcome to Git and GitHub."
+    return f"Hey {name}! Welcome to the world of Git and GitHub!"
 def goodbye(name):
     return f"Goodbye, {name}! Happy coding!"
 
